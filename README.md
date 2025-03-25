@@ -2,6 +2,10 @@
 
 ## Introduction
 This project implements a QR code classification model using Convolutional Neural Networks (CNN). The model differentiates between 'First Print' (authentic) and 'Second Print' (counterfeit) QR code images using deep learning techniques. 
+here is the video of the output 
+
+https://github.com/user-attachments/assets/ae83cfe1-dc2a-413a-8d3e-e4e2c535ff6f
+
 
 ## Approach and Methodology
 
