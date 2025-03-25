@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import logging
 
 # ✅ Load trained model
-model_path = r"C:\8 image cv project\internship project\QR CODE\qr_classifier.h5"
+model_path = r"path/to/qr_classifier.h5"
 
 try:
     cnn_model = tf.keras.models.load_model(model_path)
