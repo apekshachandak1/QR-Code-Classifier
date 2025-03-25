@@ -11,7 +11,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
 
 # Load dataset path
-dataset_path = r"C:\8 image cv project\internship project\Assignment Data-20250323T075006Z-001\Assignment Data"
+dataset_path = r"path/to/dataset/Assignment Data-20250323T075006Z-001/Assignment Data"
 categories = ['First Print', 'Second Print']
 
 # Function to load images
